@@ -28,3 +28,9 @@ I'm a Python developer🐍
 
 ## 🌎 Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahsarahimim)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MahsaRah99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ResoneAt&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
