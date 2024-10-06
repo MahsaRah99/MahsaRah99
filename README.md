@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## ✨ About me:
-I'm a Python developer🐍
+I'm a Back-end developer🐍
 - 📚 Willing to continuously learn and stay in sync with the ever-evolving industry. 
 - 👯‍♀️ Collaborating with fellow developers on exciting projects is something I genuinely enjoy. 
 - 🌱 When I'm not coding, I also enjoy exploring the outdoors and reading books.
